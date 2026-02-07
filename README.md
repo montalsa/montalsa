@@ -8,22 +8,22 @@ Currently leading operations and strategic programs in the **Office of the CEO a
 
 ### What I do
 
-I specialize in the messy, high-stakes work that sits between strategy and execution: standing up systems that turn ambiguity into momentum during the moments that matter most — leadership transitions, hypergrowth, platform shifts, and major launches. I design the operating rhythms, coordination architecture, and decision frameworks that keep complex orgs shipping.
+I work in the gap between strategy and execution, especially when things are messy and the stakes are high. My focus is setting up the systems that turn ambiguity into forward motion during moments that actually matter: leadership transitions, hypergrowth, platform shifts, and major launches. I tend to ground the work in a few clear principles and simple primitives so it holds up under pressure and scales without getting overbuilt. From there, I help shape operating rhythms, coordination paths, and decision frameworks that let complex orgs keep shipping.
 
 ### Where I've done it
 
 - **GitHub** — Office of the CEO · Cross-company strategy, special project transformation programs
-- **Plaid** — Engineering and Product operations during expansion and scaling
-- **Slack** — Program management and engineering operations during hypergrowth
-- **Flite** *(acquired by Snap)* — Early-stage product and engineering operations
+- **Plaid** — Engineering and product operations lead during expansion and scaling
+- **Slack** — Company strategic planning, technical program management, and engineering operations lead during hypergrowth
+- **Flite** *(acquired by Snap)* — Early-stage product management, technicam lrpgram management, and engineering operations
 
 ### How I think about the work
 
-I believe great operations is invisible when it's working — and obvious when it's not. The best operators don't just run playbooks; they build the playbooks, know when to throw them out, and create the conditions for the people around them to do their best work. I'm drawn to inflection points: the moments where a company is becoming something new and needs someone to build the bridge between where it is and where it's going.
+Great operations tends to be invisible when it works and obvious when it breaks. Strong operators do more than run playbooks. They build them, know when to set them aside, and create the conditions for others to do their best work. I anchor my approach in clear principles, simple primitives, and a coherent philosophy so decisions can scale and hold up under pressure. I’m most interested in inflection points, when a company is becoming something new and needs someone to help connect its current state to where it is going.
 
 ### Beyond work
 
-Originally from Georgia 🍑, college in Nashville 🎸, based in San Francisco 🌁 (for now). I'm a reader, a gamer, a horror movie enthusiast, and I believe the best ideas come from getting out of the building.
+Originally from Georgia, college in Nashville, based in San Francisco (for now). I'm a reader, a gamer, a horror movie enthusiast, and I believe the best ideas come from getting out of the building.
 
 ---
 
