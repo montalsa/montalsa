@@ -8,7 +8,7 @@ Currently leading operations and strategic programs in the **Office of the CEO a
 
 ### What I do
 
-I work in the gap between strategy and execution, especially when things are messy and the stakes are high. My focus is setting up the systems that turn ambiguity into forward motion during moments that actually matter: leadership transitions, hypergrowth, platform shifts, and major launches. I tend to ground the work in a few clear principles and simple primitives so it holds up under pressure and scales without getting overbuilt. From there, I help shape operating rhythms, coordination paths, and decision frameworks that let complex orgs keep shipping.
+I work in the gap between strategy and execution, especially when things are messy, the stakes are high, and there is a need for good taste. My focus is setting up the systems that turn ambiguity into forward motion during moments that actually matter: leadership transitions, hypergrowth, platform shifts, and major launches. I tend to ground the work in a few clear principles and simple primitives so it holds up under pressure and scales without getting overbuilt. From there, I help shape operating rhythms, coordination paths, and decision frameworks that let complex orgs keep shipping.
 
 ### Where I've done it
 
