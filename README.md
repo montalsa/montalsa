@@ -12,10 +12,10 @@ I work in the gap between strategy and execution, especially when things are mes
 
 ### Where I've done it
 
-- **GitHub** — Office of the CEO · Cross-company strategy, special project transformation programs
+- **GitHub** — Office of the CEO · Cross-company operations, communications, special projects, gtm moments
 - **Plaid** — Engineering and product operations lead during expansion and scaling
 - **Slack** — Company strategic planning, technical program management, and engineering operations lead during hypergrowth
-- **Flite** *(acquired by Snap)* — Early-stage product management, technicam lrpgram management, and engineering operations
+- **Flite** *(acquired by Snap)* — Early-stage product management, technical program management, and engineering operations
 
 ### How I think about the work
 
